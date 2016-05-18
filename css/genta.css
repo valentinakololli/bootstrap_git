@@ -1,0 +1,101 @@
+*{
+    margin: 0 auto;
+}
+
+.hr{
+    width: 95%;
+    margin: auto;
+}
+/******** Header **********/
+.view1{
+    height: 500px;
+    padding-left: 100px;
+    background-image: url(../../images/intro.jpg);
+    margin-left: 0px;
+    background-size: cover;
+}
+
+ h1{
+    margin: 0;
+    paddin: 0;
+    padding-top: 50px;
+    font-size: 64px;
+    font-weight: 100;
+    margin-bottom: 20px
+}
+
+/******** Shear **********/
+
+.rresht {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.shtyllapare{
+    padding-left: 40px;
+}
+
+.shearhdy{
+    font-size: 70px;
+
+}
+
+.paragrafi{
+    padding-top: 20px;
+    text-align: left;
+    font-size: 30px;
+}
+
+/******** Explore **********/
+
+.explore {
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.shearhdy{
+    text-align: left;
+    padding-left: 15px;
+}
+
+.exploreparagraf {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+}
+
+/******** Save **********/
+.save {
+    padding: 30px;
+}
+
+/******** Android **********/
+
+.android {
+    text-align: center;
+    height: 300px;
+    padding-top: 80px;
+}
+
+.app {
+    width: 200px;
+    height: 60px;
+    margin: 0;
+}
+
+/******** Footer **********/
+
+.footer{
+    height: 300px;
+    background-color: light-grey;
+}
+
+.header{
+    font-size: 16px;
+}
+
+.p{
+    color: #999;
+}
+
